@@ -28,6 +28,7 @@ Just include the provided HTML snippet into your project. No dependencies needed
   <div class="snowflake">❅</div><div class="snowflake">❆</div>
   <div class="snowflake">❅</div><div class="snowflake">❆</div>
 </div>
+```
 
 3. Make sure to link snow.css in your HTML for the animation styles.
 
