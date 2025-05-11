@@ -4,7 +4,7 @@ A simple and elegant snow-dropping animation using HTML, CSS, and JavaScript. Th
 
 ## 🌐 Demo
 
-![Snowfall Animation Preview](preview.gif) *(optional - add a screenshot or GIF if needed)*
+![Snowfall Animation Preview](./example.gif)
 
 ## 📦 Installation
 
